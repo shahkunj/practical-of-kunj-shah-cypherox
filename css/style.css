@@ -5310,7 +5310,7 @@ _______________________________________________________*/
   }
   .header .header-logo {
     max-width: 100%;
-    padding-bottom: 15px;
+    padding-bottom: 5px;
     border-bottom: 1px solid rgba(8, 7, 15, 0.1);
   }
   .header .header-logo img {
@@ -5367,7 +5367,7 @@ _______________________________________________________*/
     width: 30px;
     height: 26px;
     position: absolute;
-    top: 72%;
+    top: 70%;
     right: 20px;
   }
   .header .toggle-menu span {
